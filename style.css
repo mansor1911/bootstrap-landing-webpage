@@ -1,0 +1,38 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+.hero {
+  background: #f7f7f7;
+  padding: 80px 0;
+}
+.hero img {
+  max-width: 100%;
+}
+.section-title {
+  font-weight: bold;
+}
+.stats-box {
+  background: #f3fdf8;
+  padding: 40px 0;
+}
+.icon-box {
+  text-align: center;
+  padding: 30px;
+  border: 1px solid #eee;
+  border-radius: 12px;
+  height: 100%;
+}
+footer {
+  background: #f8f9fa;
+  padding: 60px 0;
+}
+
+div#clients img{
+
+margin-left: 100px;
+}
+
+footer#foot{
+
+  background-color: #1f2937;
+}
